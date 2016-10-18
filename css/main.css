@@ -5,18 +5,18 @@
 
 #header {
     position: fixed;
+    top: 0px;
     left:0px;
     right: 0px;
     background: url(../img/Bakgrunn.jpg);
-    height: 100px;
+    height: 108px;
 } 
 #banner {
-    display: ;
     position: fixed;
     text-align: center;
     width: 300px;
      margin: auto;
-    top: 8px;
+    top: 0px;
     left: 0px;
     right: 0px;
 }
@@ -31,9 +31,6 @@
     text-align: left;
     overflow: scroll;
     background: grey; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(grey, lightgrey); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(grey, lightgrey); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(grey, lightgrey); /* For Firefox 3.6 to 15 */
     background: linear-gradient(grey, lightgrey);
 }
 #topLeft{
@@ -44,6 +41,9 @@
     height: 40%;
     font-size: 110%;
 }
+#topLeft img{
+    width: 70%;
+}
 #topRight{
     position: absolute;
     right: 5%;
@@ -51,6 +51,9 @@
     width: 37%;
     height: 40%;
     font-size: 110%;
+}
+#topRight img{
+    width: 30%;
 }
 #botLeft{
     position: absolute;
@@ -60,6 +63,9 @@
     height: 40%;
     font-size: 110%;
 }
+#botLeft img{
+    width: 30%;
+}
 #botRight{
     position: absolute;
     right: 5%;
@@ -67,6 +73,9 @@
     width: 37%;
     height: 40%;
     font-size: 110%;
+}
+#botRight img{
+    width: 40%;
 }
 #last{
     position: absolute;
@@ -78,7 +87,7 @@
     
 }
 #last img{
-    
+    width: 40%;
 }
 #navigation {
     position: fixed;
@@ -141,16 +150,30 @@
     max-width: 130px;
     margin-top: 501px;
 }
+#reklame img{
+    width: 130px;
+    height: 400px;
+}
+#reklame2 img{
+    width: 130px;
+    height: 400px;
+}
 
 p a{
     text-decoration: none;
     color: black;
     position: absolute;
-    left: center;
+    text-align: center;
+    font-weight: bold;
 }
 #midBox img{
     position: absolute;
     margin: auto;
     left: 0px;
     top: 50px;
+}
+#ok{
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
