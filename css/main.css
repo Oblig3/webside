@@ -89,6 +89,7 @@
     min-height: 400px;
     max-width: 130px;
     margin-top: 501px;
+    max-height: 400px;
 }
 #turnering{
     position: fixed;
