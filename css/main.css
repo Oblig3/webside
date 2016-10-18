@@ -147,6 +147,7 @@ p a{
     color: black;
     position: absolute;
     left: center;
+    font-weight: bold;
 }
 #midBox img{
     position: absolute;
