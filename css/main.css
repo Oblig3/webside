@@ -119,3 +119,9 @@ li a{
     color: black;
     
 }
+h2 a{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left: center;
+}
