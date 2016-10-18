@@ -22,7 +22,7 @@
     right: 130px;
     top: 108px;
     bottom: 0px;
-    background-color: orange;
+    background-color: lightgrey;
     min-width: 700px;
 }
 #topLeft{
@@ -30,16 +30,14 @@
     left: 140px;
     top: 115px;
     width: 37%;
-    background-color: green;
     height: 40%;
-    overflow: hidden;
+    overflow: ;
 }
 #topRight{
     position: fixed;
     right: 140px;
     top: 115px;
     width: 37%;
-    background-color: Red;
     height: 40%;
 }
 #botLeft{
@@ -47,7 +45,6 @@
     left: 140px;
     top: 510px;
     width: 37%;
-    background-color: pink;
     height: 40%;
 }
 #botRight{
@@ -55,7 +52,6 @@
     right: 140px;
     top: 510px;
     width: 37%;
-    background-color: yellow;
     height: 40%;
 }
 #banner {
@@ -71,12 +67,10 @@
 #navigation {
     position: fixed;
     left: 0px;
-    background-color: grey;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
     margin-top: 100px;
-    color: white;
 }
 #search{
     position: fixed;
@@ -88,7 +82,7 @@
 #reklame{
     position: fixed;
     left: 0px;
-    background-color: blue;
+    background-color: darkgray;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
@@ -97,7 +91,6 @@
 #turnering{
     position: fixed;
     right: 0px;
-    background-color: grey;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
@@ -107,7 +100,7 @@
 #patcher{
     position: fixed;
     right: 0px;
-    background-color: blue;
+    background-color: darkgray;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
