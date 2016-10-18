@@ -172,3 +172,8 @@ p a{
     left: 0px;
     top: 50px;
 }
+#ok{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
