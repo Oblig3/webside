@@ -82,7 +82,7 @@
 #reklame{
     position: fixed;
     left: 0px;
-    background-color: blue;
+    background-color: darkgray;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
@@ -91,7 +91,6 @@
 #turnering{
     position: fixed;
     right: 0px;
-    background-color: grey;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
@@ -101,7 +100,7 @@
 #patcher{
     position: fixed;
     right: 0px;
-    background-color: blue;
+    background-color: darkgray;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
