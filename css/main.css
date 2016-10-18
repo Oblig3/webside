@@ -42,10 +42,20 @@
     height: 40%;
 }
 #botLeft{
-    
+    position: fixed;
+    left: 140px;
+    top: 510px;
+    width: 37%;
+    background-color: pink;
+    height: 40%;
 }
 #botRight{
-    
+    position: fixed;
+    right: 140px;
+    top: 510px;
+    width: 37%;
+    background-color: yellow;
+    height: 40%;
 }
 #banner {
     display: ;
