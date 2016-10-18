@@ -72,9 +72,15 @@
 }
 #last{
     position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 800px;
+    left: 250px;
+    margin: auto;
+    top: 850px;
+    height: 40%;
+    width: 90%;
+    
+}
+#last img{
+    
 }
 #navigation {
     position: fixed;
