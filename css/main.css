@@ -7,7 +7,7 @@
     position: fixed;
     left:0px;
     right: 0px;
-    background-color: black;
+    background: url(/webside/img/Bakgrunn.jpg);
     height: 100px;
 } 
 #homeimg {
@@ -32,7 +32,7 @@
     right: 130px;
     top: 108px;
     bottom: 0px;
-    background-color: lightgrey;
+    background-color: white;
     min-width: 700px;
     text-align: left;
     overflow: scroll;
@@ -73,6 +73,15 @@
     min-height: 400px;
     max-width: 130px;
     margin-top: 100px;
+    background: url(/webside/img/Bakgrunn.jpg);
+}
+#navigation h4{
+    color: white;
+}
+#navigation li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
 }
 #search{
     position: fixed;
@@ -93,11 +102,19 @@
 }
 #turnering{
     position: fixed;
+    background: url(/webside/img/Bakgrunn.jpg);
     right: 0px;
     min-width: 130px;
     min-height: 400px;
     max-width: 130px;
     margin-top: 100px;
+    text-align: center;
+}
+#turnering h3{
+    color: white;
+}
+#turnering a{
+    text-decoration: none;
     color: white;
 }
 #patcher{
@@ -110,11 +127,7 @@
     margin-top: 501px;
     color: white;
 }
-li a{
-    text-decoration: none;
-    color: black;
-    
-}
+
 h2 a{
     text-decoration: none;
     color: black;
