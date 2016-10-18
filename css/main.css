@@ -55,6 +55,9 @@
     height: 40%;
     font-size: 110%;
 }
+#topRight img{
+    width: 30%;
+}
 #botLeft{
     position: absolute;
     left: 20%;
