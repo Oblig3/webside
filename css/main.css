@@ -43,7 +43,6 @@
     top: 115px;
     width: 37%;
     height: 40%;
-    overflow: ;
 }
 #topRight{
     position: fixed;
@@ -74,6 +73,7 @@
     max-width: 130px;
     margin-top: 100px;
     background: url(../img/Bakgrunn.jpg);
+    color: white;
 }
 #navigation h4{
     color: white;
