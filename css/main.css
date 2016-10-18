@@ -32,6 +32,7 @@
     width: 37%;
     background-color: green;
     height: 40%;
+    overflow: hidden;
 }
 #topRight{
     position: fixed;
@@ -92,7 +93,6 @@
     min-height: 400px;
     max-width: 130px;
     margin-top: 501px;
-    color: white;
 }
 #turnering{
     position: fixed;
@@ -113,4 +113,9 @@
     max-width: 130px;
     margin-top: 501px;
     color: white;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    
 }
