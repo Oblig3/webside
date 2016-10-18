@@ -39,7 +39,7 @@
 }
 #topLeft{
     position: fixed;
-    left: 140px;
+    left: 250px;
     top: 115px;
     width: 37%;
     height: 40%;
@@ -47,21 +47,21 @@
 }
 #topRight{
     position: fixed;
-    right: 140px;
+    right: 30px;
     top: 115px;
     width: 37%;
     height: 40%;
 }
 #botLeft{
     position: fixed;
-    left: 140px;
+    left: 250px;
     top: 510px;
     width: 37%;
     height: 40%;
 }
 #botRight{
     position: fixed;
-    right: 140px;
+    right: 30px;
     top: 510px;
     width: 37%;
     height: 40%;
@@ -125,7 +125,6 @@
     min-height: 400px;
     max-width: 130px;
     margin-top: 501px;
-    color: white;
 }
 
 h2 a{
