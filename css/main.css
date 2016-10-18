@@ -44,6 +44,9 @@
     height: 40%;
     font-size: 110%;
 }
+#topLeft img{
+    width: 70%;
+}
 #topRight{
     position: absolute;
     right: 5%;
@@ -59,6 +62,9 @@
     width: 37%;
     height: 40%;
     font-size: 110%;
+}
+#botLeft img{
+    width: 40%;
 }
 #botRight{
     position: absolute;
