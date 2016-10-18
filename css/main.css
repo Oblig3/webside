@@ -153,6 +153,14 @@
     max-width: 130px;
     margin-top: 501px;
 }
+#reklame img{
+    width: 130px;
+    height: 400px;
+}
+#reklame2 img{
+    width: 130px;
+    height: 400px;
+}
 
 p a{
     text-decoration: none;
