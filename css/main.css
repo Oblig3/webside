@@ -7,7 +7,7 @@
     position: fixed;
     left:0px;
     right: 0px;
-    background: url(/webside/img/Bakgrunn.jpg);
+    background: url(../img/Bakgrunn.jpg);
     height: 100px;
 } 
 #homeimg {
@@ -32,7 +32,7 @@
     right: 130px;
     top: 108px;
     bottom: 0px;
-    background-color: white;
+    background-color: grey;
     min-width: 700px;
     text-align: left;
     overflow: scroll;
@@ -73,7 +73,7 @@
     min-height: 400px;
     max-width: 130px;
     margin-top: 100px;
-    background: url(/webside/img/Bakgrunn.jpg);
+    background: url(../img/Bakgrunn.jpg);
 }
 #navigation h4{
     color: white;
@@ -102,7 +102,7 @@
 }
 #turnering{
     position: fixed;
-    background: url(/webside/img/Bakgrunn.jpg);
+    background: url(../img/Bakgrunn.jpg);
     right: 0px;
     min-width: 130px;
     min-height: 400px;
