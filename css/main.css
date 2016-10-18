@@ -22,7 +22,7 @@
     right: 130px;
     top: 108px;
     bottom: 0px;
-    background-image: url("/img/testbilde.jpg");
+    background-color: lightgrey;
     min-width: 700px;
 }
 #topLeft{
